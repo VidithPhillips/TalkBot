@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TalkBot/static/js/main.0d327821.js",
+    "main.js": "/TalkBot/static/js/main.8b1c1e7c.js",
     "index.html": "/TalkBot/index.html",
-    "main.0d327821.js.map": "/TalkBot/static/js/main.0d327821.js.map"
+    "main.8b1c1e7c.js.map": "/TalkBot/static/js/main.8b1c1e7c.js.map"
   },
   "entrypoints": [
-    "static/js/main.0d327821.js"
+    "static/js/main.8b1c1e7c.js"
   ]
 }
